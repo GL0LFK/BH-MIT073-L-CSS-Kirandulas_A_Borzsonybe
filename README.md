@@ -1,6 +1,8 @@
 # BH-MIT073-L-CSS-Kirandulas_A_Borzsonybe
 Kirándulás A Börzsönybe
 
+
+
 Feladat
 Készítsen weblapot az alábbi mintának megfelelően! Gondoskodjon róla, hogy
 - a feltüntetett linkekre kattintva új ablakban nyíljon meg az adott címhez tartozó honlap;
